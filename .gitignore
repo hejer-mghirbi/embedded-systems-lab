@@ -1,0 +1,23 @@
+# Compiled files
+*.o
+*.elf
+*.bin
+*.hex
+
+# STM32CubeIDE
+Debug/
+Release/
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

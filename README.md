@@ -10,7 +10,6 @@ As an Electrical Engineering student focused on IoT and Intelligent Embedded Sys
 
 - Raspberry Pi (Linux-based embedded systems)
 - STM32 Microcontrollers (ARM Cortex-M)
-- PIC16F Microcontrollers
 - FPGA Design using VHDL
 
 ---
